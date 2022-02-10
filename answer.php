@@ -1,5 +1,5 @@
 <?php
-$file = file("/home/widuranga/Downloads/input_data/a_an_example.in.txt");
+$file = file("~/input_data/a_an_example.in.txt");
 
 $a = $file[0];
 
