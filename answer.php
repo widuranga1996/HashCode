@@ -1,4 +1,5 @@
 <?php
+//get input
 $file = file("~/input_data/a_an_example.in.txt");
 
 $a = $file[0];
@@ -6,8 +7,6 @@ $a = $file[0];
 $b = count($file);
 $e = [];
 $f = [];
-
-//to create 
 
 for($i=1; $i<$b; ){
 	//to get first like ingrideients
